@@ -1,0 +1,8 @@
+# Bank exports and every generated table contain personal financial data.
+*.csv
+*.CSV
+
+# Windows download markers, Python and Jupyter clutter
+*:Zone.Identifier
+__pycache__/
+.ipynb_checkpoints/
